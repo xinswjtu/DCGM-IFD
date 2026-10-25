@@ -1,6 +1,6 @@
 # DCGM-IFD
 
-This repository contains the implementation of our paper titled *"Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data"*. 
+This repository contains the implementation of our paper titled [Discriminative Condition-Guided Generative Model for Induction Motor Fault Diagnosis with Limited Data](https://ieeexplore.ieee.org/document/11278460). 
 
 ## Abstract
 
